@@ -9,7 +9,7 @@ Activation refers to a request to bring a service up to maximum capacity.
 
 Personal protective equipment refers to equipment required to protect against contagious diseases.
 ## Section 2: Creation of new laboratories
-The NHS shall construct two (2) Biosafety Level 4 laboratories and six (6) Biosafety Level 3. These laboratories shall have the capability to quickly, effectively, and safely diagnose contagious diseases. These laboratories shall be subject to all relevant regulations and oversight. 
+The NHS shall construct two (2) Biosafety Level 4 laboratories and six (6) Biosafety Level 3 laboratories. These laboratories shall have the capability to quickly, effectively, and safely diagnose contagious diseases. These laboratories shall be subject to all relevant regulations and oversight. 
 
 The NHS shall construct four (4) fully staffed treatment centers capable of handling contagious diseases including Ebola Virus Disease (EVD). The NHS shall also construct no less than 8 (eight) minimally staffed treatment centers capable of reaching full capacity within two weeks of activation. All treatment centers shall have negative pressure isolation rooms.
 
