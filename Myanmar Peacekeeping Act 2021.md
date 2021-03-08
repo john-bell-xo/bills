@@ -2,7 +2,7 @@
 
 `Be it enacted` by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-## Section 1: Peacekeeping
+## Section 1: Peacekeeping and restoration of lawful power
 Her Majesty's Armed Forces shall return power to the lawfully elected civilian government of Myanmar through any means possible.
 
 Her Majesty's Armed Forces shall also reduce the negative impact to the civilian population of Myanmar to the best of its ability. Her Majesty's Armed Forces shall provide basic human amenities such as food and water to the civilian population of Myanmar to the best of its ability.
