@@ -21,4 +21,4 @@ This Act may be cited as the Enhanced Diagnosis, Biosafety, And Diagnosis Act 20
 
 This Act comes into force on the passing of this Act.
 
-This Act extends to the whole of the United Kingdom of Great Britain and Northern Ireland and its Overseas Territories.
+This Act extends to the whole of England.
