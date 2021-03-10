@@ -1,4 +1,4 @@
-### `A bill` to increase the defensive capabilities of the military to deter possible conflict.
+### `A bill` to reduce the negative impact of organized disinformation.
 
 `Be it enacted` by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
