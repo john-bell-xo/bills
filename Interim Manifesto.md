@@ -5,7 +5,7 @@
 * ### Invest in our safety by
   * surpassing defense spending expectations set by NATO to guarantee allied intervention in the event of war
   * commissioning two Queen Elizabeth-class aircraft carriers and complementary squadrons of fifth generation fighters to defend our borders
-  * increasing funding for counter-terrorism programs including **Pursue** and **Prevent** to prevent our youth from becoming radicalized and to stop attacks before they occur
+  * increasing funding for counter-terrorism programs including *Pursue* and *Prevent* to prevent our youth from becoming radicalized and to stop attacks before they occur
 * ### Protect our industry by
   * auditing the current government to root out corruption and foreign intervention
   * lowering tariffs of supplies and intermediate goods to make our industries more profitable 
@@ -13,7 +13,7 @@
 * ### Encourage small businesses by
   * lowering the corporation tax to increase the attractiveness of opening a business
   * changing labour regulations to reduce initial overhead
-  * loosening **"accredited investor"** regulations to let more investors sponsor promising businesses 
+  * loosening "accredited investor" regulations to let more investors sponsor promising businesses 
 * ### Safeguard our source of food by
   * eliminating useless environmental preservation laws so more prospective farmers can enter the profession
   * increasing import tariffs to make local farms more competitive
@@ -21,7 +21,7 @@
 * ### Safeguard our democracy by
   * stopping the endless referendums designed to chip away at a unified Britain
   * leaving the EU after the people we represent have decided to do so
-  * implementing a **blockchain-based** "secured voter" system to eliminate widespread voter fraud 
+  * implementing a blockchain-based "secured voter" system to eliminate widespread voter fraud 
 
 <!-- ![say the line, bart!](https://i.kym-cdn.com/entries/icons/original/000/026/155/maxresdefault_(2).jpg) -->
 
