@@ -14,7 +14,7 @@
   * lowering the corporation tax to increase the attractiveness of opening a business
   * changing labour regulations to reduce initial overhead
   * loosening **"accredited investor"** regulations to let more investors sponsor promising businesses 
-* ### Safeguarding our source of food by
+* ### Safeguard our source of food by
   * eliminating useless environmental preservation laws so more prospective farmers can enter the profession
   * increasing import tariffs to make local farms more competitive
   * making special exemptions for the minimum wage in farming related professions to allow for more affordable labour
