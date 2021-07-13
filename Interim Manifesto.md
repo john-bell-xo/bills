@@ -14,6 +14,10 @@
   * lowering the corporation tax to increase the attractiveness of opening a business
   * changing labour regulations to reduce initial overhead
   * loosening **"accredited investor"** regulations to let more investors sponsor promising businesses 
+* ### Safeguarding our source of food by
+  * eliminating useless environmental preservation laws so more prospective farmers can enter the profession
+  * increasing import tariffs to make local farms more competitive
+  * making special exemptions for the minimum wage in farming related professions to allow for more affordable labour
 * ### Safeguard our democracy by
   * stopping the endless referendums designed to chip away at a unified Britain
   * leaving the EU after the people we represent have decided to do so
@@ -29,6 +33,18 @@
   * decomissioning costly, unreliable, and ecologically damaging legacy power generation facilities  
   * switching to nuclear-based power
   * increasing funding for research into more affordable power generation solutions
+* ### Ensure Britain is connected by
+  * increasing the coverage of our public transportation system to make sure you can go anywhere for the cost of one fare
+  * encouraging the usage of ride-sharing platforms and decreasing regulations to increase availablity and decrease cost
+  * maintaining and expanding our highways to eliminate long commute times
+* ### Make our country more affordable by
+  * eliminating most car ownership taxes and fees so everyone can afford to own a car
+  * reducing carbon taxes so everyday goods are cheaper to manufacture and cheaper to buy
+  * significantly reducing income taxes, and making our current tax system more equitable
+* ### Make sure every one in our country has a roof to sleep under by
+  * Preserving rent control for existing renters
+  * Guaranteeing a mortgage interest rate for prospective homeowners
+  * Revamping our infastructure to lower utility costs
 * ### Keep our nation healthy by
   * promoting preventative health treatments to ensure no one dies from a preventable disease
   * increasing the funding for the NHS to ensure it can more effectively respond to infectious disease crises
@@ -37,4 +53,4 @@
   * entering peacekeeping missions in war-ravaged places like the Congo
   * intervening against repressive regimes economically and militarily 
   * increasing constitutional and practical safeguards to ensure the July 10 coup can never happen again
-
+* ### ...and fix all the other minor issues the Government can't be bothered with
