@@ -42,9 +42,9 @@
   * reducing carbon taxes so everyday goods are cheaper to manufacture and cheaper to buy
   * significantly reducing income taxes, and making our current tax system more equitable
 * ### Make sure every one in our country has a roof to sleep under by
-  * Preserving rent control for existing renters
-  * Guaranteeing a mortgage interest rate for prospective homeowners
-  * Revamping our infastructure to lower utility costs
+  * preserving rent control for existing renters
+  * guaranteeing a mortgage interest rate for prospective homeowners
+  * revamping our infastructure to lower utility costs
 * ### Keep our nation healthy by
   * promoting preventative health treatments to ensure no one dies from a preventable disease
   * increasing the funding for the NHS to ensure it can more effectively respond to infectious disease crises
