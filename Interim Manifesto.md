@@ -18,3 +18,7 @@
   * guaranteeing accessible student loans at the current prime interest rate to make sure every child is able to pursue higher education
   * redesigning out-of-date computer courses to a modern standard to make our children able to compete in an increasingly digitized world
   * eliminating the right of teachers' unions to strike to ensure our children's education won't be impacted by short-sighted greed
+* ### Keep human rights accessible to all humans by
+  * entering peacekeeping missions in war-ravaged places like the Congo
+  * intervening against repressive regimes economically and militarily 
+  * placeholder
