@@ -53,4 +53,3 @@
   * entering peacekeeping missions in war-ravaged places like the Congo
   * intervening against repressive regimes economically and militarily 
   * increasing constitutional and practical safeguards to ensure the July 10 coup can never happen again
-* ### ...and fix all the other minor issues the Government can't be bothered with
