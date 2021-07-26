@@ -3,7 +3,7 @@
 `Be it enacted` by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 ## Section 1: Referendum
-- A referendum is to be held to determine the nature of the United Kingdom's future place relative to the European Union.
+- A referendum is to be held to determine the future of the House of Lords.
 - The referendum is to be held on a date chosen by the Prime Minister, which is no later than the 31st of December 2021.
 - The question asked on the ballot paper shall be “Should the House of Lords be dissolved?”, furnished with the following choices:
   - Yes
