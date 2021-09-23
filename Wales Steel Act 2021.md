@@ -5,7 +5,7 @@
 ## Section 1: Action
 Any steel that is used in the United Kingdom and not manufactured in Wales shall be additionally taxed an amount that is deemed comparable to the current sales tax. 
 
-## Section 3: Short title, commencement and extent
+## Section 2: Short title, commencement and extent
 This Act may be cited as the Wales Steel Act 2021.
 
 This Act comes into force on the passing of this Act.
