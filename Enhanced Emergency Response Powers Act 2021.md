@@ -4,6 +4,7 @@
 
 ## Section 1: Definitions
 "Detainment" refers to being held in a secure facility.
+
 "State of emergency" refers to a response to any event that has the potential to lead to significant loss of life or property if not responded to.
 
 ## Section 2: Action
