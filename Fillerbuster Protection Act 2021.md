@@ -12,10 +12,12 @@ A fillerbuster is defined as when a Member of Parliament has submited more than 
 
 ## Section 3: Response to fillibuster
 4. When a fillerbuster is called, the House of Commons shall
-a) be able to submit amendments to these bills immediately.
-b) have a recess for fifteen minutes per reading per bill to adaquately discuss the newly submitted bills.
-c) have no less and no more than two newly submitted bills pass through each session.
-  I) These bills shall go through all three readings in a single session.
+- be able to submit amendments to bills in any reading immediately.
+- have a recess for fifteen minutes per reading per bill to adaquately discuss the newly submitted bills.
+- have a recess for fifteen minutes per amendment to adaquately discuss the newly submitted admendments.
+- have no less and no more than two bills pass through each session.
+  - Bills seen during a fillerbuster shall go through all three readings in a single session.
+- have votes lasting no more than fifteen minutes per bill after the required recesses outlined in section 3.4b/c. 
 
 ## Section 4: Short title, commencement and extent
 This Act may be cited as the Fillerbuster Protection Act 2021.
