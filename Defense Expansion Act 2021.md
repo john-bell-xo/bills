@@ -6,9 +6,9 @@
 The Royal Navy refers to Her Majesty's Naval Service of the British Armed Forces.
 
 ## Section 2: Procurement of Military Equipment
-The Royal Navy shall procure two (2) *Queen Elizabeth-class* aircraft carriers. The Royal Navy shall use these aircraft carriers as deterrence against further attacks on friendly vessels.
+The Royal Navy shall procure two (2) Queen Elizabeth-class aircraft carriers. The Royal Navy shall use these aircraft carriers as deterrence against further attacks on friendly vessels.
 
-The Royal Navy shall procure 72 (seventy-two) F-35 *Lightning II* aircraft. The Royal Navy shall use these aircraft as deterrence against further attacks on friendly vessels.
+The Royal Navy shall procure 72 (seventy-two) F-35 Lightning II aircraft. The Royal Navy shall use these aircraft as deterrence against further attacks on friendly vessels.
 
 ## Section 3: Short title, commencement and extent
 This Act may be cited as the Defense Expansion Act 2021.
